@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amwafy.xyz/sitemap.xml
