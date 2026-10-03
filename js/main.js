@@ -1,4 +1,4 @@
-/* Wafy Labs - shared scripts */
+/* Wafyra - shared scripts */
 (function () {
   'use strict';
 
