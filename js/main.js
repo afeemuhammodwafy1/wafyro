@@ -1,4 +1,4 @@
-/* Wafyra - shared scripts */
+/* Wafyro Software - shared scripts */
 (function () {
   'use strict';
 
